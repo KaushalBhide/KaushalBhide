@@ -6,4 +6,4 @@ I'm currently pursuing B.E in Computer Engineering and I've a keen interest in W
 - Created Websites like Gym Website, Dance Academy website, Food Delivery Company Website
 - Notes App
 
-You can  also check out my [LinkedIn Profile!](https://www.linkedin.com/in/kaushalbhide/) 
+You can  also check out my [LinkedIn Profile!](https://www.linkedin.com/in/kaushalbhide) 
