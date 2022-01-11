@@ -1,11 +1,13 @@
 ## Hi 👋
 
 I'm currently pursuing B.E in Computer Engineering and I've a keen interest in Web Development. I've always had a natural curiosity for it. Here are some of my projects in web development:
+- Notes App using MERN stack
 - Click-Farm: A website for Farmers
 - Sorting Algorithm Visualizer
 - Created Websites like Gym Website, Dance Academy website, Food Delivery Company Website
-- Notes App
-- Text Analyzer
+- Text Analyzer 
+
+To check out more projects [Click Here](https://github.com/KaushalBhide?tab=repositories)
 
 You can  also check out my [LinkedIn Profile!](https://www.linkedin.com/in/kaushalbhide) 
 
