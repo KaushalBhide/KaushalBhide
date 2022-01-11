@@ -1,13 +1,14 @@
-## Hi 👋
+<!-- ## Hi 👋 -->
+<h2 align="center">Hi 👋, I'm Kaushal Bhide</h2>
+<h4>I'm currently pursuing B.E in Computer Engineering and I've a keen interest in Web Development. I've always had a natural curiosity for it. Here are some of my projects in web development:</h4> 
 
-I'm currently pursuing B.E in Computer Engineering and I've a keen interest in Web Development. I've always had a natural curiosity for it. Here are some of my projects in web development:
 - Notes App using MERN stack
 - Click-Farm: A website for Farmers
 - Sorting Algorithm Visualizer
 - Created Websites like Gym Website, Dance Academy website, Food Delivery Company Website
 - Text Analyzer 
 
-To check out more projects [Click Here](https://github.com/KaushalBhide?tab=repositories)
+All of my projects are available [here](https://github.com/KaushalBhide?tab=repositories)
 
 You can  also check out my [LinkedIn Profile!](https://www.linkedin.com/in/kaushalbhide) 
 
@@ -20,6 +21,7 @@ You can  also check out my [LinkedIn Profile!](https://www.linkedin.com/in/kaush
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
