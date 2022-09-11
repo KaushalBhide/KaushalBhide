@@ -3,10 +3,10 @@
 <h4>I'm currently pursuing B.E in Computer Engineering and I've a keen interest in Web Development. I've always had a natural curiosity for it. Here are some of my projects in web development:</h4> 
 
 - Notes App using MERN stack
-- Click-Farm: A website for Farmers
+- A social meida app where you can share your travel memories using MERN
 - Sorting Algorithm Visualizer
 - Created Websites like Gym Website, Dance Academy website, Food Delivery Company Website
-- Text Analyzer 
+- Text Analyzer using React
 
 All of my projects are available [here](https://github.com/KaushalBhide?tab=repositories)
 
